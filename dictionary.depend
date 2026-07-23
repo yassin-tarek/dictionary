@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1778948254 source:c:\users\yassi\onedrive\desktop\collage\term4\data structure\dictionary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
